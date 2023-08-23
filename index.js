@@ -8,4 +8,6 @@ let random_n_two = Math.floor(Math.random()*message_two.length);
 
 console.log (message_one[random_n_one] + message_two[random_n_two])
 
-//alles was hier steht funktioniert perfekt
+//alles was hier steht funktioniert perfekt 
+// Ich hoffe es funktioniert
+
